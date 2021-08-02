@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <router-view />
-    1
+    3
   </div>
 </template>
 <script>
